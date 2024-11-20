@@ -44,10 +44,14 @@ a {
     color: white;
 }
 
-.motto {
-    color: #ff5733; /* Vibrant orange color */
-}
-
 .link {
     color: #3682b893; /* Vibrant blue color */
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 1rem;
+    border-radius: 10px 10px 10px 10px;
 }
